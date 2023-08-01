@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-01T23:17:53+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Works of Stuart Butler</title><subtitle>Games Developer and Academic</subtitle><entry><title type="html">Build Gameplay Mechanics for a Collectible Item Game</title><link href="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game" rel="alternate" type="text/html" title="Build Gameplay Mechanics for a Collectible Item Game" /><published>2022-09-24T00:00:00+01:00</published><updated>2022-09-24T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game</id><content type="html" xml:base="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>This was my second course produced for Epic Games using the <a href="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot">Stack O Bot Project</a>.</p>
+
+<p>This time, the course focusses on building new mechanics on top of the Stack-o-Bot functionality to explore the different approaches to communicating between blueprints in Unreal Engine 5.</p>
+
+<p>The course begins by creating a new game mode and player controller for the collectible item game before creating all of the pickup and delivery mechanics.</p>
+
+<p>Once the mechanics have been created, we move on to setting up a HUD to show how many orbs the character is carrying and how many have been delivered.</p>
+
+<p>The game loop is then finalised by bulding in win conditions as well as Start and end Events created with Event Dispatchers.</p>
+
+<h1 id="topics-covered">Topics Covered</h1>
+<ul>
+  <li>Blueprint Interfaces</li>
+  <li>Event Dispatchers</li>
+  <li>Direct Reference Blueprint Communication</li>
+  <li>UMG Widgets</li>
+  <li>Blueprint Casting</li>
+  <li>Spawners</li>
+  <li>Timelines for Object Animation</li>
+  <li>Components</li>
+</ul>]]></content><author><name></name></author><category term="Unreal Engine 5" /><category term="Courses" /><category term="Tutorials" /><summary type="html"><![CDATA[An Unreal Online Learning Course produced for Epic Games.]]></summary></entry><entry><title type="html">Staffordshire University Ginetta G40 Livery</title><link href="http://localhost:4000/blog/staffs-uni-ginetta-project-cars-2" rel="alternate" type="text/html" title="Staffordshire University Ginetta G40 Livery" /><published>2022-09-13T00:00:00+01:00</published><updated>2022-09-13T00:00:00+01:00</updated><id>http://localhost:4000/blog/staffs-uni-ginetta-project-cars-2</id><content type="html" xml:base="http://localhost:4000/blog/staffs-uni-ginetta-project-cars-2"><![CDATA[<h3 id="project-summary">Project Summary</h3>
+
+<p>This was a project to create a racing livery for the Ginetta G40 in Project Cars 2 with Staffordshire University as the primary sponsor. The intention was for the livery to be used as part of a web-video series where influenctial members of the University community would race a lap in VR around the National layout at Silverstone which would form part of an interview segment similar to the star in a reasonably priced car interviews in Jeremy Clarkson’s Top Gear.</p>
+
+<p>Here’s the finished texture in action around Oulton Park with me in the Motion Sim VR setup at the University:</p>
+
+<iframe width="75%" height="650" src="https://www.youtube.com/embed/sqjHTd0AV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<h3 id="influences-and-logos">Influences and Logos</h3>
+
+<p>The livery needed to use only brands assosciated with Staffordshire University or those already appearing in game.</p>
+
+<p>Here’s an influence sheet I put together to start to build some ideas:</p>
+
+<p><img src="https://cdnb.artstation.com/p/assets/images/images/053/810/871/large/stuart-butler-ginetadesign.jpg?1663085659" alt="Influence Image" /></p>
+
+<h3 id="livery-design-image">Livery Design Image</h3>
+
+<p>When designing liveries, I like to do mockups on a photo of the car (or motorbike) first to really get a feel for the look I’m trying to achieve before moving onto the in game textures.</p>
+
+<p>This is the design I came up with and showed to the team for approval before moving on:</p>
+
+<p><img src="https://cdnb.artstation.com/p/assets/images/images/053/810/871/large/stuart-butler-ginetadesign.jpg?1663085659" alt="Livery Design Image" /></p>
+
+<p>The name board on the roof is for Chris Headleand, Head of the Games Development Department.</p>
+
+<h3 id="final-texture">Final Texture</h3>
+
+<p>The final texture was produced entirely in Photoshop</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Project Cars 2 Livery Texture for Staffordshire University]]></summary></entry><entry><title type="html">Build a Third Person Character from Scratch</title><link href="http://localhost:4000/blog/build-a-third-person-character-from-scratch" rel="alternate" type="text/html" title="Build a Third Person Character from Scratch" /><published>2022-04-03T00:00:00+01:00</published><updated>2022-04-03T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-a-third-person-character-from-scratch</id><content type="html" xml:base="http://localhost:4000/blog/build-a-third-person-character-from-scratch"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>Some Text</p>
+
+<h1 id="preview-video">Preview Video</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAh2E1gsYJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Unreal Engine 5" /><category term="Courses" /><category term="Tutorials" /><summary type="html"><![CDATA[An Unreal Online Learning Course produced for Epic Games.]]></summary></entry><entry><title type="html">TT Superbikes Legends</title><link href="http://localhost:4000/blog/tt-superbikes-legends" rel="alternate" type="text/html" title="TT Superbikes Legends" /><published>2008-02-01T00:00:00+00:00</published><updated>2008-02-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-legends</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-legends"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>Some Text</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry><entry><title type="html">TT Superbikes Real Road Racing Championships</title><link href="http://localhost:4000/blog/tt-superbikes-rrrc" rel="alternate" type="text/html" title="TT Superbikes Real Road Racing Championships" /><published>2008-01-01T00:00:00+00:00</published><updated>2008-01-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-rrrc</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-rrrc"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>Some Text</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry></feed>
