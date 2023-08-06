@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-03T23:16:53+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Works of Stuart Butler</title><subtitle>Games Developer and Academic</subtitle><entry><title type="html">Build Gameplay Mechanics for a Collectible Item Game</title><link href="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game" rel="alternate" type="text/html" title="Build Gameplay Mechanics for a Collectible Item Game" /><published>2022-09-24T00:00:00+01:00</published><updated>2022-09-24T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game</id><content type="html" xml:base="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-06T01:03:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Works of Stuart Butler</title><subtitle>Games Developer and Academic</subtitle><entry><title type="html">Build Gameplay Mechanics for a Collectible Item Game</title><link href="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game" rel="alternate" type="text/html" title="Build Gameplay Mechanics for a Collectible Item Game" /><published>2022-09-24T00:00:00+01:00</published><updated>2022-09-24T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game</id><content type="html" xml:base="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game"><![CDATA[<h1 id="project-summary">Project Summary</h1>
 
-<p>This was my second course produced for Epic Games using the <a href="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot">Stack O Bot Project</a>.</p>
+<p>This was my second course produced for Epic Games using the <a href="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot">Stack O Bot Project</a>, and Unreal Game Sample created by the amazingly talented <a href="https://twitter.com/andidev_">Andreas Suika</a>.</p>
 
 <p>This time, the course focusses on building new mechanics on top of the Stack-o-Bot functionality to explore the different approaches to communicating between blueprints in Unreal Engine 5.</p>
 
@@ -24,38 +24,95 @@
 
 <p>This was a project to create a racing livery for the Ginetta G40 in Project Cars 2 with Staffordshire University as the primary sponsor. The intention was for the livery to be used as part of a web-video series where influenctial members of the University community would race a lap in VR around the National layout at Silverstone which would form part of an interview segment similar to the star in a reasonably priced car interviews in Jeremy Clarkson’s Top Gear.</p>
 
+<p><img src="https://cdna.artstation.com/p/assets/images/images/053/811/196/medium/stuart-butler-ss165334.jpg?1663086153" alt="Car Selection Screen Screenshot" /></p>
+
 <p>Here’s the finished texture in action around Oulton Park with me in the Motion Sim VR setup at the University:</p>
 
-<iframe width="75%" height="650" src="https://www.youtube.com/embed/sqjHTd0AV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqjHTd0AV8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <h3 id="influences-and-logos">Influences and Logos</h3>
 
 <p>The livery needed to use only brands assosciated with Staffordshire University or those already appearing in game.</p>
 
-<p>Here’s an influence sheet I put together to start to build some ideas:</p>
+<p>Here’s a sheet I put together of the various logos I had available including some internal project logos such as the the Forge (Forum for Games Education) logo created by <a href="https://twitter.com/shaunreeves">Shaun Reeves</a>.</p>
 
-<p><img src="https://cdnb.artstation.com/p/assets/images/images/053/810/871/large/stuart-butler-ginetadesign.jpg?1663085659" alt="Influence Image" /></p>
+<p><img src="/assets/images/sponsors.png" alt="Influence Image" /></p>
+
+<p>The logos mixed with a whole bunch of example Ginettas gave me some great ideas of how I wanted the car to look.</p>
 
 <h3 id="livery-design-image">Livery Design Image</h3>
 
 <p>When designing liveries, I like to do mockups on a photo of the car (or motorbike) first to really get a feel for the look I’m trying to achieve before moving onto the in game textures.</p>
 
-<p>This is the design I came up with and showed to the team for approval before moving on:</p>
+<p>This is the design I came up with and showed to the team for approval before moving on.</p>
 
 <p><img src="https://cdnb.artstation.com/p/assets/images/images/053/810/871/large/stuart-butler-ginetadesign.jpg?1663085659" alt="Livery Design Image" /></p>
 
-<p>The name board on the roof is for Chris Headleand, Head of the Games Development Department.</p>
+<p>The name board on the roof is for <a href="https://chrisheadleand.com/">Chris Headleand</a>, the Head of the Games Development Department at Staffs Uni who was the architect behind the project, adapting a concept he’d used at his previous institution.</p>
 
 <h3 id="final-texture">Final Texture</h3>
 
-<p>The final texture was produced entirely in Photoshop</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Project Cars 2 Livery Texture for Staffordshire University]]></summary></entry><entry><title type="html">Build a Third Person Character from Scratch</title><link href="http://localhost:4000/blog/build-a-third-person-character-from-scratch" rel="alternate" type="text/html" title="Build a Third Person Character from Scratch" /><published>2022-04-03T00:00:00+01:00</published><updated>2022-04-03T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-a-third-person-character-from-scratch</id><content type="html" xml:base="http://localhost:4000/blog/build-a-third-person-character-from-scratch"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+<p>The final texture was produced entirely in Photoshop making use of the Project Cars 2 Templates (the official resource for these are sadly no longer available) as a guide for producing the skin which is below, with my name and the Welsh flag on the roof. The Beacon Bot eyes were a fun addition when trying to work out what to do with the stripe on the window.</p>
 
-<p>Some Text</p>
+<p><img src="/assets/images/GinettaLivery.png" alt="Final Livery Texture Flat" /></p>
+
+<p>There are more in game screenshots on my <a href="https://www.artstation.com/artwork/NGPO2D">ArtStation</a> page for the project.</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Project Cars 2 Livery Texture for Staffordshire University]]></summary></entry><entry><title type="html">Build a Third Person Character from Scratch</title><link href="http://localhost:4000/blog/build-a-third-person-character-from-scratch" rel="alternate" type="text/html" title="Build a Third Person Character from Scratch" /><published>2022-04-03T00:00:00+01:00</published><updated>2022-04-03T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-a-third-person-character-from-scratch</id><content type="html" xml:base="http://localhost:4000/blog/build-a-third-person-character-from-scratch"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>This was my first course produced for Epic Games using the <a href="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot">Stack O Bot Project</a> and Unreal Game Sample created by the amazingly talented <a href="https://twitter.com/andidev_">Andreas Suika</a>.</p>
+
+<p>This course was part of the launch learning materials when Unreal Engine 5 launched in April.</p>
+
+<p>The course guides viewers throught the processs of re-creating a <em>slightly simplfied</em> version of the Stack-o-Bot character whilst retaining all of the key features of the character.</p>
+
+<p>Beginning by creating the required assets for the character and seting up defaults, we move on to add a camera so the character can be placed in the world and then setting up controls using the Enhanced Input System.</p>
+
+<p>We then explore a selection of cameras before moving on to explore the animation systems including blendspaces and animation blueprints to create movement animation systems including leaning.</p>
+
+<p>The course concludes by exploring vertical movement with alternative jumps and landings depending on if the character is standing still or moving and the fascinating jetpack system which includes creating a metasounds system to add audio to the jetpack.</p>
+
+<h1 id="topics-covered">Topics Covered</h1>
+<ul>
+  <li>Enhanced Input System</li>
+  <li>Camera modes and view styles</li>
+  <li>Animation Blueprints and Statemachines</li>
+  <li>Advanced character movement modes including a jetpack</li>
+  <li>Metasounds</li>
+</ul>
 
 <h1 id="preview-video">Preview Video</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RAh2E1gsYJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Unreal Engine 5" /><category term="Courses" /><category term="Tutorials" /><summary type="html"><![CDATA[An Unreal Online Learning Course produced for Epic Games.]]></summary></entry><entry><title type="html">TT Superbikes Legends</title><link href="http://localhost:4000/blog/tt-superbikes-legends" rel="alternate" type="text/html" title="TT Superbikes Legends" /><published>2008-02-01T00:00:00+00:00</published><updated>2008-02-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-legends</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-legends"><![CDATA[<h1 id="project-summary">Project Summary</h1>
 
-<p>Some Text</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry><entry><title type="html">TT Superbikes Real Road Racing Championships</title><link href="http://localhost:4000/blog/tt-superbikes-rrrc" rel="alternate" type="text/html" title="TT Superbikes Real Road Racing Championships" /><published>2008-01-01T00:00:00+00:00</published><updated>2008-01-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-rrrc</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-rrrc"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+<p>This was the second game I worked on during my time at Jester Interactive.</p>
 
-<p>Some Text</p>]]></content><author><name></name></author><category term="Project Cars 2" /><category term="Livery Design" /><category term="Texturing" /><category term="Photoshop" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry></feed>
+<p>Originally a mode within the <a href="/blog/tt-superbikes-rrrc">TT Superbikes: Real Road Racing Championship</a>, I was responsible for designing how the mode would work, incorporating a plethora of amazing classic racing bikes into the game, proposing the idea of competing in historic race events to either recreate or rewrite history.</p>
+
+<p>Shortly before release, the mode was removed from RRRC and became a game in its own right to be released a short time later, allowing players to race as one of many legendary riders.</p>
+
+<p>The mode was expanded for the game to feature an array of one make races to earn to the opportunity to race the historic events. This required us to create a series of plain liveries for each of the iconic machines.</p>
+
+<p>I was responsible for creating 13 of the in-game bike models (and all variants of their textures) which can be seen on my <a href="https://www.artstation.com/artwork/x6Q4W">ArtStation</a> page for the project.</p>
+
+<h1 id="gameplay-video">Gameplay Video</h1>
+
+<p>I couldn’t find any of the original footage we created but I did find a video of someone switching through the various bikes on YouTube from 2014, the video quality isn’t great but it’s great to see the game again.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8frXdqn-UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Game Development" /><category term="Game Artist" /><category term="Playstation 2" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry><entry><title type="html">TT Superbikes Real Road Racing Championships</title><link href="http://localhost:4000/blog/tt-superbikes-rrrc" rel="alternate" type="text/html" title="TT Superbikes Real Road Racing Championships" /><published>2008-01-01T00:00:00+00:00</published><updated>2008-01-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-rrrc</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-rrrc"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>This was the first game I worked on during my time at Jester Interactive.</p>
+
+<p>Originally hired as a placement student due to my experience producing bike textures as part of the GP500 mod community, I was initially tasked with completing research into bike characteristics, such as top speed an acceleration times but was quickly given the opportunity to produce bikes for the game including many iconic race bikes from 2006 to 2008.</p>
+
+<p>As part of my expanding role within the team, I took on the task of leading on vehicle art in both a producer/art manager-esque role, organising a vareity of outsource artists and providing critique and feedback in a lead artist role to ensure a consistant level of quality across all of the bikes in the game.</p>
+
+<p>In the end I contributed a large number of bikes and a significant percentage of the variant textures in game.</p>
+
+<p>I was also responsible for modifying, re-unwrapping and re-skinning the rider model to allow us to texture the arms and legs independantly, improving on the mirrored legs and arm textures in the original TT Superbikes game and I also reworked the environment map to provide a better visual result, allowing the bikes to appear shinier and more impressive. As well as this, I created a new set of graphics for the rev counter to help update the HUD.</p>
+
+<h1 id="gameplay-video">Gameplay Video</h1>
+
+<p>The official <a href="https://www.youtube.com/@TTSuperbikesRRRC">YouTube Channel</a> still exists with a selection of pre-release gameplay videos showing off the tracks included in the game as well as a whole bunch of my artwork.</p>
+
+<p>I recently found this awesome video which has a segment show casing the array of bikes in game, many of which I created.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LoaPYshgZ_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Game Development" /><category term="Game Artist" /><category term="Playstation 2" /><summary type="html"><![CDATA[A Playstation 2 Game Developed and Published by Jester Interactive.]]></summary></entry></feed>

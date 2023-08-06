@@ -15,7 +15,7 @@ tags:
 ---
 # Project Summary
 
-This was my second course produced for Epic Games using the [Stack O Bot Project](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot).
+This was my second course produced for Epic Games using the [Stack O Bot Project](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot), and Unreal Game Sample created by the amazingly talented [Andreas Suika](https://twitter.com/andidev_).
 
 This time, the course focusses on building new mechanics on top of the Stack-o-Bot functionality to explore the different approaches to communicating between blueprints in Unreal Engine 5.
 
