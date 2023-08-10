@@ -19,13 +19,7 @@ This was the second Udemy course I created for ThunderSteed. The course focusses
 
 The course starts with importing models and setting up materials before mocing on to creating the basic assets including the animation blueprint, character blueprint and game mode.
 
-The 2 hours of video tutorials then cover helicopter movement, animations, audio and camera
-
-# Udemy Course
-
-Following the succcess of the workshop, we were granted permission to launch the course as an Online Video Course on the Udemy Platform. 
-
-The course includes more than 5 hours of video content created by Greg and I.
+The 2 hours of video tutorials then cover helicopter movement, animations, audio and gameplay cameras as well as handling take off and landing.
 
 If you would like to, you can [Access the Course Here](https://www.udemy.com/course/helicopter-control-system-ue4/?referralCode=F1E6C66602E96718A759)
 
