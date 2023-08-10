@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-06T01:03:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Works of Stuart Butler</title><subtitle>Games Developer and Academic</subtitle><entry><title type="html">Build Gameplay Mechanics for a Collectible Item Game</title><link href="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game" rel="alternate" type="text/html" title="Build Gameplay Mechanics for a Collectible Item Game" /><published>2022-09-24T00:00:00+01:00</published><updated>2022-09-24T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game</id><content type="html" xml:base="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-10T22:18:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Works of Stuart Butler</title><subtitle>Games Developer and Academic</subtitle><entry><title type="html">Build Gameplay Mechanics for a Collectible Item Game</title><link href="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game" rel="alternate" type="text/html" title="Build Gameplay Mechanics for a Collectible Item Game" /><published>2022-09-24T00:00:00+01:00</published><updated>2022-09-24T00:00:00+01:00</updated><id>http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game</id><content type="html" xml:base="http://localhost:4000/blog/build-gameplay-mechanics-for-a-collectible-item-game"><![CDATA[<h1 id="project-summary">Project Summary</h1>
 
 <p>This was my second course produced for Epic Games using the <a href="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/stack-o-bot">Stack O Bot Project</a>, and Unreal Game Sample created by the amazingly talented <a href="https://twitter.com/andidev_">Andreas Suika</a>.</p>
 
@@ -81,7 +81,58 @@
 
 <h1 id="preview-video">Preview Video</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAh2E1gsYJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Unreal Engine 5" /><category term="Courses" /><category term="Tutorials" /><summary type="html"><![CDATA[An Unreal Online Learning Course produced for Epic Games.]]></summary></entry><entry><title type="html">TT Superbikes Legends</title><link href="http://localhost:4000/blog/tt-superbikes-legends" rel="alternate" type="text/html" title="TT Superbikes Legends" /><published>2008-02-01T00:00:00+00:00</published><updated>2008-02-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-legends</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-legends"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAh2E1gsYJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Unreal Engine 5" /><category term="Courses" /><category term="Tutorials" /><summary type="html"><![CDATA[An Unreal Online Learning Course produced for Epic Games.]]></summary></entry><entry><title type="html">Helicopter Control System Course</title><link href="http://localhost:4000/blog/helicourse" rel="alternate" type="text/html" title="Helicopter Control System Course" /><published>2016-07-01T00:00:00+01:00</published><updated>2016-07-01T00:00:00+01:00</updated><id>http://localhost:4000/blog/helicourse</id><content type="html" xml:base="http://localhost:4000/blog/helicourse"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>This was …</p>
+
+<h3 id="character-setup">Character Setup</h3>
+
+<p>The character runs automatically, the player controls the direction by clicking in order to swap the direction.</p>
+
+<h1 id="udemy-course">Udemy Course</h1>
+
+<p>Following the succcess of the workshop, we were granted permission to launch the course as an Online Video Course on the Udemy Platform.</p>
+
+<p>The course includes more than 5 hours of video content created by Greg and I.</p>
+
+<p>If you would like to, you can [Access the Course Here](https://www.udemy.com/course/helicopter-control-system-ue4/?referralCode=F1E6C66602E96718A759</p>
+<h3 id="important-note"><strong>Important Note</strong></h3>
+
+<p>It is important to note however that the course is designed for <strong>Unreal Engine version 4.X</strong> so many of the techniques and approaches may not be directly applicable to newer versions of the engine and there are many different solutions available now to create similar systems which don’t leverage the Character Movement Component.</p>]]></content><author><name></name></author><category term="Game Development" /><category term="Unreal Engine 4" /><category term="Tutorial Series" /><summary type="html"><![CDATA[An Unreal Engine 4 Udemy Course Published by ThunderSteed Ltd.]]></summary></entry><entry><title type="html">Don’t Drop Jim - Endless Runner</title><link href="http://localhost:4000/blog/dontdropjim" rel="alternate" type="text/html" title="Don’t Drop Jim - Endless Runner" /><published>2016-03-01T00:00:00+00:00</published><updated>2016-03-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/dontdropjim</id><content type="html" xml:base="http://localhost:4000/blog/dontdropjim"><![CDATA[<h1 id="project-summary">Project Summary</h1>
+
+<p>This was the first project I worked on in Unreal Engine 4. The introduction of Blueprint held a huge appeal for me having spent a few years working with, and teaching, UScript in UDK.</p>
+
+<p>The project, developed with the amazingly talented Unreal Engine expert, <a href="https://uk.linkedin.com/in/greg-penninck-4736811a">Greg Penninck</a>, took a different approach to the classic Infinite runner, opting for a side scroller system where the character needs to fall through levels in order to keep the character alive, collecting gold on the way down.</p>
+
+<h3 id="character-setup">Character Setup</h3>
+
+<p>The character runs automatically, the player controls the direction by clicking in order to swap the direction.</p>
+
+<h3 id="level-and-camera-setup">Level and Camera Setup</h3>
+
+<p>a</p>
+
+<h1 id="initial-workshop">Initial Workshop</h1>
+
+<p>The project was reverse engineered to deliver as a 2 day open access workshop at Staffordshire University to offer a learning opportunity for UE4 within a few weeks of the engine’s release.</p>
+
+<h1 id="other-contributions">Other Contributions</h1>
+
+<p>For this project I also modelled Walky, the bipedal robot who features in the game. The robot would later be used for animation tutorials and a host of other projects but this was his first outing for which he featured a small collection of coal in a recessed area on top of his body.</p>
+
+<p><em>Include character presentation sheet?</em></p>
+
+<h1 id="udemy-course">Udemy Course</h1>
+
+<p>Following the succcess of the workshop, we were granted permission to launch the course as an Online Video Course on the Udemy Platform.</p>
+
+<p>The course includes more than 5 hours of video content created by Greg and I.</p>
+
+<p>If you would like to, you can <a href="https://www.udemy.com/course/master-blueprints-in-unreal-engine-4-endless-runner/?referralCode=5DB158E264BB07E11246">Access the Course Here</a>.</p>
+
+<h3 id="important-note"><strong>Important Note</strong></h3>
+
+<p>It is important to note however that the course is designed for <strong>Unreal Engine version 4.0</strong> so many of the techniques and approaches may not be directly applicable to newer versions of the engine.</p>]]></content><author><name></name></author><category term="Game Development" /><category term="Unreal Engine 4" /><category term="Tutorial Series" /><summary type="html"><![CDATA[An Unreal Engine 4 Project turned Udemy Course Published by ThunderSteed Ltd.]]></summary></entry><entry><title type="html">TT Superbikes Legends</title><link href="http://localhost:4000/blog/tt-superbikes-legends" rel="alternate" type="text/html" title="TT Superbikes Legends" /><published>2008-02-01T00:00:00+00:00</published><updated>2008-02-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/tt-superbikes-legends</id><content type="html" xml:base="http://localhost:4000/blog/tt-superbikes-legends"><![CDATA[<h1 id="project-summary">Project Summary</h1>
 
 <p>This was the second game I worked on during my time at Jester Interactive.</p>
 
