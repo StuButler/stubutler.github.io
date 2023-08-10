@@ -27,7 +27,8 @@ Following the succcess of the workshop, we were granted permission to launch the
 
 The course includes more than 5 hours of video content created by Greg and I.
 
-If you would like to, you can [Access the Course Here](https://www.udemy.com/course/helicopter-control-system-ue4/?referralCode=F1E6C66602E96718A759
+If you would like to, you can [Access the Course Here](https://www.udemy.com/course/helicopter-control-system-ue4/?referralCode=F1E6C66602E96718A759)
+
 ### **Important Note**
 
 It is important to note however that the course is designed for **Unreal Engine version 4.7.7** so many of the techniques and approaches may not be directly applicable to newer versions of the engine and there are many different solutions available now to create similar systems which don't leverage the Character Movement Component.
